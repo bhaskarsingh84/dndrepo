@@ -1,5 +1,5 @@
 # dndrepo
 
 
-This is lovely from local
+This is lovely from Git
 
